@@ -1,7 +1,7 @@
 # require 'rubygems'
 require 'sinatra'
-require 'Faker'
 require 'haml'
+require 'rack/flash/test'
 
 
 
