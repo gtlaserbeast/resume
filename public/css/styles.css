@@ -1,3 +1,9 @@
+#wrap {
+  width: 750px;
+  margin: 0 auto;
+  padding: 6px;
+  background: #FFFFFF;
+  }
 /* Styles for links */
 
 #resume a:link
