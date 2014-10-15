@@ -1,7 +1,6 @@
 # require 'rubygems'
 require 'sinatra'
 require 'haml'
-require 'rack/flash/test'
 
 
 
