@@ -33,21 +33,21 @@
 
 #resume h1
 {
-  font-size: 14pt;
-  line-height: 20pt;
+  font-size: 16pt;
+  line-height: 22pt;
   margin-bottom:10px;
 }
 
 #resume h2
 {
-  font-size: 12pt;
-  line-height: 14pt;
+  font-size: 14pt;
+  line-height: 16pt;
 }
 
 #resume h3
 {
-  font-size: 10pt;
-  line-height: 14pt;
+  font-size: 12pt;
+  line-height: 16pt;
   margin: 0 0 0 20px;
 }
 
@@ -55,14 +55,14 @@
 {
   margin: 0 0 0 20px;
   text-indent: 0;
-  font-size: 10pt;
-  line-height: 14pt;
+  font-size: 12pt;
+  line-height: 16pt;
 }
 
 #resume ul
 {
-  font-size: 10pt;
-  line-height: 14pt;
+  font-size: 12pt;
+  line-height: 16pt;
   list-style-type: square;
   list-style-position: outside;
   margin-top: 0;
